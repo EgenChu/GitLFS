@@ -4,3 +4,4 @@ image_test_folder/** binary filter=lfs diff=lfs merge=lfs -text
 largeFile.lf filter=lfs diff=lfs merge=lfs -text
 *.ps filter=lfs diff=lfs merge=lfs -text
 hello1/** filter=lfs diff=lfs merge=lfs -text
+image_test_bis filter=lfs diff=lfs merge=lfs -text
