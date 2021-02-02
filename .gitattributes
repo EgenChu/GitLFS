@@ -5,3 +5,4 @@ largeFile.lf filter=lfs diff=lfs merge=lfs -text
 hello1/** filter=lfs diff=lfs merge=lfs -text
 image_test_bis/** filter=lfs diff=lfs merge=lfs -text
 helloBis/** filter=lfs diff=lfs merge=lfs -text
+image_test_folder/**/* filter=lfs diff=lfs merge=lfs -text
